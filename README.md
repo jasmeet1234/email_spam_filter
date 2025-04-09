@@ -58,14 +58,14 @@ This project is not just about filtering spam — it’s about **demonstrating m
    ```
    
 2. **Install the dependencies**
-  ```bash
-  pip install -r requirements.txt
-  ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. **Run the app**
-  ```bash
-  streamlit run app.py
-  ```
+   ```bash
+   streamlit run app.py
+   ```
 
 4. **Use the interface**
    
